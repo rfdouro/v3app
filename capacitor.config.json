@@ -1,0 +1,5 @@
+{
+  "appId": "com.rfdouro.vcap",
+  "appName": "vcap",
+  "webDir": "dist"
+}
