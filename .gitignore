@@ -30,4 +30,4 @@ coverage
 *.tsbuildinfo
 
 android
-*.bat
+gitpush.bat
