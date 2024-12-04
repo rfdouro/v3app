@@ -10,7 +10,7 @@ import { VitePWA } from "vite-plugin-pwa";
 export default defineConfig({
   base:
     process.env.NODE_ENV === "production"
-      ? "./" // prod
+      ? "/v3app" // prod
       : "/", // dev,
   plugins: [
     vue(),
