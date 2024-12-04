@@ -10,16 +10,13 @@ import { VitePWA } from "vite-plugin-pwa";
 export default defineConfig({
   base:
     process.env.NODE_ENV === "production"
-      ? "/v3app" // prod
+      ? "./" // prod
       : "/", // dev,
   plugins: [
     vue(),
     vueDevTools(),
     VitePWA({
       registerType: "autoUpdate",
-      devOptions: {
-        enabled: true,
-      },
     }),
   ],
   resolve: {
