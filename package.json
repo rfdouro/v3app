@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "generate-pwa-assets": "pwa-assets-generator --preset minimal public/favicon.svg"
   },
   "dependencies": {
     "@capacitor/android": "^6.2.0",
@@ -20,6 +21,7 @@
     "vue-router": "^4.4.5"
   },
   "devDependencies": {
+    "@vite-pwa/assets-generator": "^0.2.6",
     "@vitejs/plugin-vue": "^5.2.1",
     "vite": "^6.0.1",
     "vite-plugin-pwa": "^0.21.1",
