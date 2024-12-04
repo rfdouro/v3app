@@ -1,6 +1,6 @@
 # vcap
 
-This template should help get you started developing with Vue 3 in Vite.
+Template criado usando Vue3 + Vite
 
 ## Recommended IDE Setup
 
@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Criação de um PWA
+
+Fonte: [https://www.saurabhmisra.dev/setup-react-pwa-using-vite/](https://www.saurabhmisra.dev/setup-react-pwa-using-vite/)
+
+Dados: [VitePWA](https://vite-pwa-org.netlify.app/)
