@@ -34,3 +34,4 @@ git commit -m "push ghpages %now%"
 git push -f https://<TOKEN_DE_SEGURANCA>@github.com/<USUARIO_GITHUB>/<REPOSITORIO>.git master:gh-pages
 
 
+cd ..
