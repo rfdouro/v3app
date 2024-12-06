@@ -51,3 +51,5 @@ Dados: [VitePWA](https://vite-pwa-org.netlify.app/)
 ## Criação de uma APP Mobile com [Capacitor (ionic)](https://capacitorjs.com/)
 
 Fonte: [Expandindo o conjunto de ferramentas com o Capacitor](https://docs.google.com/document/d/1Xp-Xjem0nWmZuVabnhgex4So7unCNa2zJCUjmQYg1Z4/view?tab=t.0#heading=h.miazjc4x8qd1)
+
+* Execute o arquivo [**buildapp.bat**](buildapp.bat) para gerar o APK
