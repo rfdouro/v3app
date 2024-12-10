@@ -1,0 +1,1 @@
+import{_ as s,c as o,a as t,o as a}from"./index-B-oEjAW6.js";const c={},n={class:"about"};function r(i,e){return a(),o("div",n,e[0]||(e[0]=[t("h1",null,"This is an about page",-1)]))}const u=s(c,[["render",r],["__file","D:/DEV/VUE/vcap/src/views/AboutView.vue"]]);export{u as default};
