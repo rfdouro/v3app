@@ -21,6 +21,9 @@ git push -f https://<TOKEN_DE_SEGURANCA>@github.com/<USUARIO_GITHUB>/<REPOSITORI
 
 :: PROCESSO DE BUILD
 
+:: usado para alterar o path indicado no vite.config.js
+SET NODE_ENV=production
+
 call npm run build
 cd dist
 
